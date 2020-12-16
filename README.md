@@ -1,22 +1,22 @@
-# Parking Space Finder
+# House Explore
 
-### Author: Vicky Zhuang and Alex Yang
+### Author: Vicky Zhuang
 
 ### Class Link: https://johnguerra.co/classes/webDevelopment_fall_2020/
 
 ## Motivation:
 
-### Our mission is helping to solve parking difficulties in popular cities like HK
+### Build a house explore app
 
-### Using the sharing Economics idea, we encourage people to share parking
+### let users to search house information in orderly manner
 
 ### space when it is empty.
 
 ### Mission:
 
-![alt text](https://github.com/VickyZ20/Driveway_Sharing/blob/master/media/shot2.png)
-![alt text](https://github.com/VickyZ20/Driveway_Sharing/blob/master/media/shot3.png)
-![alt text](https://github.com/VickyZ20/Driveway_Sharing/blob/master/media/shot4.png)
+![alt text](https://github.com/VickyZ20/Will/blob/master/23.jpg)
+![alt text](https://github.com/VickyZ20/Will/blob/master/img02.jpeg)
+![alt text](https://github.com/VickyZ20/Will/blob/master/img1.jpeg)
 
 ### How to run the programm:
 
